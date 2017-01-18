@@ -1,0 +1,3 @@
+SevenSegShiftReg	KEYWORD1
+displayByte	KEYWORD2
+clearDisplay	KEYWORD2
